@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EgehanDemir
 - 👀 I’m interested in Backend Development for C, Java, Python
 - 🌱 I’m currently learning JavaScript, React JS, React Native, Node JS, Bootstrap
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me egehann07@gmail.com
 
 <!---
